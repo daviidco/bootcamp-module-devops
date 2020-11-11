@@ -8,6 +8,8 @@ Instala las dependencias con:
 
 ```bash
 pip install -r requirements.txt
+o si es una Amazon Linux2
+sudo pip install -r requirements.txt
 ```
 
 ## Ejecución en modo desarrollo
